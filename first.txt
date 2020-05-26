@@ -1,3 +1,7 @@
 git practice
-hoge
-hoge
+
+
+git add 
+git commit
+git rm
+
